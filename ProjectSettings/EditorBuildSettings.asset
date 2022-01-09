@@ -1,0 +1,59 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 0
+    path: Assets/Scenes/SampleScene.unity
+    guid: 2cda990e2423bbf4892e6590ba056729
+  - enabled: 1
+    path: Assets/Scenes/MainMenu.unity
+    guid: bb120cc48725bf443a88e03742ebdfd1
+  - enabled: 1
+    path: Assets/Scenes/MenuKarakterem.unity
+    guid: 9fe8e16d3f2ae5b4397c4e34d04cc30a
+  - enabled: 1
+    path: Assets/Scenes/MenuLevelSelector.unity
+    guid: b33e19a0d133f9943aa364766223cde5
+  - enabled: 1
+    path: Assets/Scenes/MenuNehezseg.unity
+    guid: 1ee3e3e5c4e6fbf47bd16ccf352484af
+  - enabled: 1
+    path: Assets/Scenes/MenuMultiplayer.unity
+    guid: 8bc51d72a51e4424bb2676ac35c5e1af
+  - enabled: 1
+    path: Assets/Scenes/MenuMultiplayerNehezseg.unity
+    guid: 289649d5e4bb8544ab9986854c2f1318
+  - enabled: 1
+    path: Assets/Scenes/MenuMultiplayerLetrehozva.unity
+    guid: 93fc63de43a64684b89a4627293be5a5
+  - enabled: 1
+    path: Assets/Scenes/MenuMultiplayerCsatlakozas.unity
+    guid: 8e03ed61a6d79ff439797ba7fb35864d
+  - enabled: 1
+    path: Assets/Scenes/MenuKerdesBank.unity
+    guid: bf95118f77bea6247b8e22539439070a
+  - enabled: 1
+    path: Assets/SWNetwork/Scenes/LobbyScene.unity
+    guid: d31d59fea45914a0289f5eab75dab0a6
+  - enabled: 1
+    path: Assets/Scenes/MenuSzintSikertelen.unity
+    guid: d70b15421e759f34382dc54db92a15f2
+  - enabled: 1
+    path: Assets/Scenes/MenuSzintTeljesitve.unity
+    guid: a4a0436bdae6947449fa940d8393ee0a
+  - enabled: 1
+    path: Assets/Scenes/Game1.unity
+    guid: 313e8676961ada84ab01cedda8e7abed
+  - enabled: 1
+    path: Assets/Scenes/Game2.unity
+    guid: 78840f6eeda0b3247854001a52eaebec
+  - enabled: 1
+    path: Assets/Scenes/Game3.unity
+    guid: 0b62ffbec58dac741822746e989a0770
+  - enabled: 1
+    path: Assets/Scenes/Game4.unity
+    guid: 5936a0b29b801df45a019b6ad2279c18
+  m_configObjects: {}
